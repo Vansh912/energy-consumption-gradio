@@ -32,13 +32,7 @@ It returns:
 
 ---
 
-## 📦 Folder Structure
 
-gradio_app/
-├── gradio_app.py # Gradio frontend + model loading
-├── models/
-│ └── energy_consumption.pkl # Trained XGBoost model
-├── requirements.txt # Dependencies for Hugging Face Spaces
 
 ## 📦 Requirements
 
