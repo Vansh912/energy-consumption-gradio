@@ -22,7 +22,7 @@ It returns:
 ---
 ## Deployment on HuggingFace
 
-👉 [Try the App on Hugging Face Spaces](https://huggingface.co/spaces/oblivion912/Gradio_based_ML/tree/main)
+👉 [Try the App on Hugging Face Spaces](https://huggingface.co/spaces/oblivion912/Gradio_based_ML)
 
 
 ## 🧪 How to Use
