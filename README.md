@@ -20,7 +20,9 @@ It returns:
 > 🔍 **Predicted Energy Consumption Score** — a numerical value representing energy usage behavior.
 
 ---
+## Deployment on HuggingFace
 
+👉 [Try the App on Hugging Face Spaces](https://huggingface.co/spaces/oblivion912/Gradio_based_ML/tree/main)
 
 
 ## 🧪 How to Use
